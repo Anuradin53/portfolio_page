@@ -78,6 +78,8 @@ export const DATA = {
       end: "Present",
       location: "Seattle, Washington, United States · Remote",
       logoUrl: "",
+      href: "",
+      badges: [],
       description: [
         "Led the AI listing description generator launch, cutting creation time by 60% in a month and enhancing dealership efficiency.",
         "Boosted user engagement by 40% through data-driven decisions, resulting in improved product performance and customer retention.",
@@ -91,6 +93,8 @@ export const DATA = {
       end: "Sep 2022",
       location: "Seattle, Washington, United States · Remote",
       logoUrl: "/webforpurpose.png",
+      href: "",
+      badges: [],
       description: [
         "Completed a two-phase web development program focused on HTML, CSS, and JavaScript.",
         "Built and launched websites for local BIPOC-owned businesses, applying frontend development skills to real-world client projects.",
