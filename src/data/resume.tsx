@@ -80,11 +80,7 @@ export const DATA = {
       logoUrl: "",
       href: "",
       badges: [],
-      description: [
-        "Led the AI listing description generator launch, cutting creation time by 60% in a month and enhancing dealership efficiency.",
-        "Boosted user engagement by 40% through data-driven decisions, resulting in improved product performance and customer retention.",
-        "Conducted user research and analyzed product metrics to drive data-informed decisions, resulting in a 40% increase in user engagement."
-      ],
+      description: "• Led the AI listing description generator launch, cutting creation time by 60% in a month and enhancing dealership efficiency.\n• Boosted user engagement by 40% through data-driven decisions, resulting in improved product performance and customer retention.\n• Conducted user research and analyzed product metrics to drive data-informed decisions, resulting in a 40% increase in user engagement.",
     },
     {
       company: "Web For Purpose",
@@ -95,11 +91,7 @@ export const DATA = {
       logoUrl: "/webforpurpose.png",
       href: "",
       badges: [],
-      description: [
-        "Completed a two-phase web development program focused on HTML, CSS, and JavaScript.",
-        "Built and launched websites for local BIPOC-owned businesses, applying frontend development skills to real-world client projects.",
-        "Participated in a structured curriculum that included web development coursework, professional mentorship, and career readiness workshops."
-      ],
+      description: "• Completed a two-phase web development program focused on HTML, CSS, and JavaScript.\n• Built and launched websites for local BIPOC-owned businesses, applying frontend development skills to real-world client projects.\n• Participated in a structured curriculum that included web development coursework, professional mentorship, and career readiness workshops.",
     },
   ],
   education: [
