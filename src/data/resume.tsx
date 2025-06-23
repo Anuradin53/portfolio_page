@@ -104,6 +104,15 @@ export const DATA = {
       end: "2025",
     },
     {
+      school: "AWS Cloud Institute",
+      href: "https://aws.amazon.com/training/aws-cloud-institute/",
+      degree: "Cloud Computing & Architecture",
+      logoUrl: "",
+      start: "Jan 2025",
+      end: "Sep 2025",
+      description: "Designed and implemented scalable, high availability architectures using AWS services such as EC2, RDS, DynamoDB, S3, IAM, Redshift, and CloudFront to optimize performance and reliability. Built and secured network architectures with VPCs, subnets, route tables, and security groups, ensuring compliance with security best practices. Automated cloud infrastructure and application deployments using CI/CD pipelines (AWS CodePipeline, CodeBuild and CodeDeploy) to improve efficiency, consistency, and release management. Developed serverless applications with AWS Lambda, API Gateway, and DynamoDB, optimizing cost efficiency and scalability. Gained hands-on experience through 100+ interactive AWS Labs and two capstone projects, applying cloud architecture and DevOps best practices in real-world scenarios. Integrated AI/ML services such as Amazon SageMaker, Rekognition, and AWS Bedrock, exploring AI-powered automation predictive analysis, and natural language processing in cloud applications.",
+    },
+    {
       school: "Oregon State University",
       href: "https://oregonstate.edu/",
       degree: "B.S, Computer Science",
