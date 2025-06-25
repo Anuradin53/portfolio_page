@@ -11,7 +11,7 @@ export const DATA = {
     "Cloud Developer. Builder. ☁️ Always learning, always building!",
   summary:
     "I am an ambitious and detail-oriented upcoming Cloud Developer, currently enrolled in the AWS Cloud Institute program. I am gaining hands-on experience with AWS services and cloud architecture, and I am passionate about leveraging cloud technologies to solve real-world problems. My commitment to continuous learning and my drive to build scalable, secure, and innovative solutions set me apart as a future leader in cloud computing.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpg",
   skills: [
     "Programming & Scripting: Python, Java, C++, HTML, Bash, YAML",
     "Cloud & DevOps Tools: Amazon EC2, S3, RDS, DynamoDB, IAM, CloudFront, Redshift, VPC, Subnets, Route Tables, Security Groups, AWS Lambda, API Gateway, CloudWatch, CodePipeline, CodeBuild, CodeDeploy",
