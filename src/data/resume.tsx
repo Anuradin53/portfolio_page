@@ -14,9 +14,7 @@ export const DATA = {
   avatarUrl: "/me.png",
   skills: [
     "Programming & Scripting: Python, Java, HTML, Bash, YAML",
-    "Cloud & DevOps Tools: Amazon EC2, S3, RDS, DynamoDB, IAM, CloudFront, Redshift, VPC, Subnets, Route Tables, Security Groups",
-    "AWS Lambda, API Gateway, CloudWatch",
-    "CodePipeline, CodeBuild, CodeDeploy",
+    "Cloud & DevOps Tools: Amazon EC2, S3, RDS, DynamoDB, IAM, CloudFront, Redshift, VPC, Subnets, Route Tables, Security Groups, AWS Lambda, API Gateway, CloudWatch, CodePipeline, CodeBuild, CodeDeploy",
     "Serverless & Automation: Serverless application development (Lambda + API Gateway + DynamoDB)",
     "CI/CD pipeline implementation using AWS DevOps tools",
     "Infrastructure automation and deployment",
