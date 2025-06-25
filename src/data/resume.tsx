@@ -13,11 +13,9 @@ export const DATA = {
     "I am an ambitious and detail-oriented upcoming Cloud Developer, currently enrolled in the AWS Cloud Institute program. I am gaining hands-on experience with AWS services and cloud architecture, and I am passionate about leveraging cloud technologies to solve real-world problems. My commitment to continuous learning and my drive to build scalable, secure, and innovative solutions set me apart as a future leader in cloud computing.",
   avatarUrl: "/me.png",
   skills: [
-    "Programming & Scripting: Python, Java, HTML, Bash, YAML",
+    "Programming & Scripting: Python, Java, C++, HTML, Bash, YAML",
     "Cloud & DevOps Tools: Amazon EC2, S3, RDS, DynamoDB, IAM, CloudFront, Redshift, VPC, Subnets, Route Tables, Security Groups, AWS Lambda, API Gateway, CloudWatch, CodePipeline, CodeBuild, CodeDeploy",
     "Serverless & Automation: Serverless application development (Lambda + API Gateway + DynamoDB)",
-    "CI/CD pipeline implementation using AWS DevOps tools",
-    "Infrastructure automation and deployment",
     "AI/ML Services: Amazon SageMaker, Rekognition, AWS Bedrock",
   ],
   navbar: [
