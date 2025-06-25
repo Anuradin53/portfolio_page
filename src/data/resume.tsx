@@ -20,7 +20,6 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "hello@example.com",
@@ -28,10 +27,10 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "",
         icon: Icons.github,
 
-        navbar: false,
+        navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
