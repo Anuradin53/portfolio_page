@@ -622,4 +622,20 @@ export const DATA = {
       ],
     },
   ],
+  certifications: [
+    {
+      name: "AWS Certified Cloud Practitioner",
+      status: "In Progress",
+      issuer: "Amazon Web Services",
+      logoUrl: "",
+      href: "",
+    },
+    {
+      name: "AWS Certified Developer – Associate",
+      status: "In Progress", 
+      issuer: "Amazon Web Services",
+      logoUrl: "",
+      href: "",
+    },
+  ],
 } as const;
